@@ -13,5 +13,6 @@ public class GitDemo {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("branch--dev");
+        System.out.println(":main--branch");
     }
 }
